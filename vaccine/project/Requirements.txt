@@ -1,0 +1,4 @@
+ flask
+ mysqlclient
+ flask sql alchemy
+ flask login
