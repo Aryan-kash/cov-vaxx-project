@@ -1,7 +1,7 @@
 The tech stack for this project is flask and sqlalchemy
 XAMPP is used to host the database server
 Install python and XAMPP before running
-also install the following with the given commands:
+also install the following using pip install:
 install flask
 install mysqlclient
 install flask sql alchemy
